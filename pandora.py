@@ -72,5 +72,5 @@ async def on_message(message):
 	await cl.process_commands(message)
 	
 
-tok = "OTA3MTEyNDgwNDM2NzkzNDA0.YYicVA.njugHajDpucwWKrnMHTlu4Lmj2Y"
+tok = <ur token goes here>
 cl.run(tok)
