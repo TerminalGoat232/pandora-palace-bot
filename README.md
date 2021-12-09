@@ -1,0 +1,3 @@
+# pandora-palace-bot
+sus
+A bot i made for a server but they no longer..., nvm...
